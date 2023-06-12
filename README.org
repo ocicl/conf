@@ -1,0 +1,10 @@
+* conf
+
+Simple configuration file manipulator for projects in Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/noloop/conf.git   |
+| commit  | 6120bba  |
+| systems | conf |
+|---------+-------------------------------------------|
+
